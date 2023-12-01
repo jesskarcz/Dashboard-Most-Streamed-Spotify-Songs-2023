@@ -1,5 +1,5 @@
 Spotify Dashboard - Most Streamed Songs 2023 🎶
-Welcome to the Spotify Dashboard for the Most Streamed Songs of 2023! 🚀 This geeky tech project, crafted by the magical developer Jes🔮, brings you an interactive and visually appealing exploration of the top tracks on Spotify.
+Welcome to the Spotify Dashboard for the Most Streamed Songs of 2023! 🚀 This project is crafted by Jesica Karczewski, and brings you an interactive and visually appealing exploration of the top tracks on Spotify.
 
 Features:
 1. Dynamic Filtering:
