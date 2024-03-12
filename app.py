@@ -1,5 +1,5 @@
 from pickle import FALSE
-from tkinter.font import ITALIC
+#from tkinter.font import ITALIC
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
