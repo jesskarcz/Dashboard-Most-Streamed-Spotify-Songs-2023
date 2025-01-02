@@ -1,5 +1,5 @@
-Spotify Dashboard - Most Streamed Songs 2023 🎶
-Welcome to the Spotify Dashboard for the Most Streamed Songs of 2023! 🚀 This project was crafted by Jesica Karczewski, and brings you an interactive and visually appealing exploration of the top tracks on Spotify.
+Spotify Dashboard - Most Streamed Songs 2023 🎶 View it live here: https://jk-dashboard-most-streamed-spotify-songs-2023.streamlit.app
+Welcome to the Spotify Dashboard for the Most Streamed Songs of 2023! 🚀 This project brings you an interactive and visually appealing exploration of the top tracks on Spotify.
 
 Features:
 1. Dynamic Filtering:
@@ -40,7 +40,7 @@ Quick Start:
 		Install the required dependencies.
 		Run the Streamlit app using the command streamlit run your_file.py.
 		Explore and enjoy the insights into Spotify's most streamed songs of 2023!
-Feel free to contribute, customize, or provide feedback. Happy streaming! 🎧✨
+Feel free to contribute or provide feedback. 🎧✨
 
 
 ————————————————————————————————————————————
